@@ -1,7 +1,8 @@
 # Etapa 3 - AC2
 
 ## Grafo de Fluxo
-(Insira aqui uma imagem do grafo desenhado ou uma descrição textual)
+
+![grafo](image.png)
 
 ## Complexidade Ciclomática
 **Fórmula utilizada:**  
